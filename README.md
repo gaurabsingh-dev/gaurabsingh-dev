@@ -1,12 +1,11 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Gaurab Singh
 
-[Check out my Hashnode Blog](https://hashnode.com/@gauravprajapati99/)
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][hashnode]
 
-![Cover Image](https://github.com/gaurabsingh022/gaurabsingh022/blob/1895dc99c98f5f34240417c077d0a1bcf57afe33/Cover%20pic2.png)
 
 ### My Tech Toolbox 🧰
 
