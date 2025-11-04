@@ -1,20 +1,37 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Gaurab Singh
+<h1 align="center">👋 Hi, I'm Gaurab Singh</h1>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
+<p align="center">
+  <a href="https://twitter.com/gaurav895950"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurab-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/WingTech/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://gauravprajapati.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][hashnode]
+---
 
+### 🧠 About Me  
+- 🔍 Passionate about transforming raw data into actionable insights.  
+- 💡 Skilled in **Machine Learning, Data Visualization, and Statistical Analysis**.  
+- 🧰 Experienced with **Python, MySQL, Flask, Pandas, NumPy, XGBoost, and Matplotlib**.  
+- 📊 Love building clean dashboards and automation tools that simplify decisions.  
+- 🎯 Currently exploring **Deep Learning** and **Data Engineering pipelines**.  
 
-### My Tech Toolbox 🧰
+---
 
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/> </p>
+### 🧰 Tech Toolbox  
 
-- **My primary coding languages**: C#, .NET Core, MVC Framework
-- Passionate for learning & exploring new tech. I write [Tech Blogs](https://gauravprajapati.hashnode.dev/) & create educational [YouTube Videos](https://www.youtube.com/c/wigtech/).
-- I am working on building my online presence and mentoring fellow developers who are starting their programming journey.
-- Join my [Discord server](https://discord.gg/) | [Telegram Channel](https://t.me/technicalgaurav1999).
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="45" alt="Kaggle"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="45" alt="Pandas" style="filter: hue-rotate(210deg);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" height="45" alt="XGBoost"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="45" alt="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" height="45" alt="Flask"/>
+</p>
 
 ---
 
@@ -22,41 +39,47 @@
 <tr>
 <td valign="top" width="50%">
 
-### My Latest Blog Posts 🌱
+### ✍️ Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Understanding CSS Selectors: Pseudo-Class Selectors](https://gauravprajapati.hashnode.dev/understanding-css-selectors-pseudo-class-selectors)
 - [Introduction to Python Programming (Beginner’s Guide)](https://gauravprajapati.hashnode.dev/introduction-to-python-programming-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
-➡️ [More blog posts...](https://gauravprajapati.hashnode.dev/)
+➡️ [More on Hashnode](https://gauravprajapati.hashnode.dev/)
 
 </td>
 <td valign="top" width="50%">
 
-### My Latest YouTube Videos 🌱
+### 🎥 Latest YouTube Videos  
 <!-- YOUTUBE:START -->
-- [Starbucks Landing Page Website Design Using HTML, CSS & JavaScript | Step-by-Step Web Design Tutorial](https://www.youtube.com/watch?v=fwvmlHvNg5s&t=5s)
+- [Starbucks Landing Page Website Design Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=fwvmlHvNg5s&t=5s)
 <!-- YOUTUBE:END -->
-➡️ [More videos...](https://www.youtube.com/c/wingtech/)
+➡️ [Watch more on YouTube](https://www.youtube.com/c/WingTech/)
 
 </td>
+</tr>
 </table>
 
-<details>
-<summary>📊 Github Stats</summary>
+---
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravprajapati199&show_icons=true&theme=gotham" alt="Gaurav Prajapati | Stats" />
+### 💼 Professional Interests  
+- Data Science | Predictive Modeling | Business Intelligence  
+- ETL & Data Engineering | Flask APIs | Cloud Data Analytics  
+- ML Lifecycle Automation | Statistical Data Exploration  
+
+---
+
+### 👀 Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurabsingh022&label=Profile%20Visits&color=blueviolet&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
-</details>
+---
 
-![Visitor Count](https://profile-counter.glitch.me/{Gaurabsingh022}/count.svg)
+<h3 align="center">⭐ Show some ❤️ by starring repositories you like!</h3>
 
-[twitter]: https://twitter.com/gaurav895950
-[youtube]: https://www.youtube.com/c/WingTech/
-[LinkedIn]: https://www.linkedin.com/in/gaurab-singh/
-[Hashnode]: https://gauravprajapati.hashnode.dev/
-[gmail]: https://gaurabsingh022gmail.com
-[Facebook]: https://www.facebook.com/gauravpr99
+---
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+[twitter]: https://twitter.com/gaurav895950  
+[youtube]: https://www.youtube.com/c/WingTech/  
+[linkedin]: https://www.linkedin.com/in/gaurab-singh/  
+[hashnode]: https://gauravprajapati.hashnode.dev/  
