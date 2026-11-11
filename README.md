@@ -1,400 +1,397 @@
+
 <h1 align="center">Hi, I'm Gaurab Singh 👋</h1>
 
 <h3 align="center">
-Salesforce Developer · Apex · Lightning Web Components · CRM & Cloud Solutions
+AI Engineer · Machine Learning · Generative AI · LLMs · Intelligent Automation
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurab-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Gaurabsingh022">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Salesforce Developer** focused on building scalable CRM solutions, business process automation, custom Salesforce applications, and system integrations.
+I'm an **AI Engineer** interested in building intelligent applications that combine Artificial Intelligence, Machine Learning, Generative AI, and modern software engineering.
 
-My development experience and interests include:
+My focus is on developing practical AI solutions that solve real-world problems through automation, predictive analytics, natural language processing, and intelligent systems.
 
-* ☁️ Salesforce Sales Cloud & Service Cloud
-* ⚡ Apex development and trigger frameworks
-* 🧩 Lightning Web Components (LWC)
-* 🔄 Salesforce Flow and process automation
-* 🔗 REST API integrations and external systems
-* 🗃️ SOQL, SOSL and Salesforce data modeling
-* 🧪 Apex testing, bulkification and governor-limit optimization
-* 🔐 Salesforce security and access management
-* 🚀 Salesforce CLI, Git and deployment workflows
+My technical interests include:
 
-I enjoy translating business requirements into **maintainable, scalable, and user-focused Salesforce solutions**.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & Neural Networks
+- ✨ Generative AI & Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 💬 Natural Language Processing (NLP)
+- 🐍 Python & AI Application Development
+- 📊 Data Analysis & Predictive Modeling
+- 🔗 AI APIs & Model Integration
+- ⚡ Intelligent Workflow Automation
+- ☁️ AI Deployment & Cloud Technologies
+
+I enjoy transforming complex business problems into practical, scalable, and intelligent AI-powered applications.
 
 ---
 
-## Salesforce Development Stack
+## 🧠 AI & Machine Learning Technology Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SOQL-Database-1B96FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flow-Automation-7B61FF?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102B4E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Development
+### Programming & Data Science
 
-```text
-Apex
-├── Apex Classes
-├── Triggers
-├── Batch Apex
-├── Queueable Apex
-├── Scheduled Apex
-├── Future Methods
-└── Test Classes
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
 
-Lightning
-├── Lightning Web Components
-├── Aura Components
-├── Visualforce
-├── JavaScript
-├── HTML
-└── CSS
+### Machine Learning
 
-Data
-├── SOQL
-├── SOSL
-├── Data Modeling
-├── Data Loader
-└── Data Migration
+- Supervised Learning
+- Unsupervised Learning
+- Linear & Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machines
+- K-Nearest Neighbors
+- Clustering Algorithms
+- Model Evaluation & Optimization
+- Scikit-learn
 
-Automation
-├── Salesforce Flow
-├── Validation Rules
-├── Approval Processes
-└── Platform Automation
+### Deep Learning & AI
 
-Integration
-├── REST API
-├── SOAP API
-├── Apex Callouts
-├── JSON
-├── Named Credentials
-└── Postman
-```
+- Neural Networks
+- TensorFlow
+- PyTorch
+- Deep Learning Fundamentals
+- Model Training & Evaluation
+- Computer Vision Fundamentals
+- Natural Language Processing
+
+### Generative AI & LLM Engineering
+
+- Large Language Models (LLMs)
+- OpenAI API
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases
+- Semantic Search
+- LangChain
+- LLM Application Development
+- AI Agents
+- Function Calling & Tool Integration
+
+### AI Application Development
+
+- Streamlit
+- FastAPI
+- REST APIs
+- Flask
+- JSON
+- Git & GitHub
+- Docker
+- Model Deployment
+- Cloud AI Integration
 
 ---
 
-## Tools & DevOps
+## 🛠️ Tools & Technologies
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,docker,fastapi,flask,postgresql,mysql,tensorflow,pytorch"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
-
-<img src="https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-# Featured Salesforce Projects
+# 🚀 Featured AI Engineering Projects
 
-## 01 · Enterprise CRM & Lead Management
+## 01 · AI Resume Matcher
 
-**Salesforce Sales Cloud · Apex · LWC · Flow · SOQL**
+**Python · Machine Learning · Scikit-learn · Streamlit · NLP**
 
-A CRM application designed to manage the complete lead lifecycle from creation through qualification and conversion.
-
-### Key Features
-
-* Lead assignment automation
-* Lead qualification workflow
-* Duplicate lead validation
-* Custom Apex business logic
-* Lightning Web Component dashboard
-* Automated email notifications
-* Lead conversion automation
-* Sales performance reports
-* Apex unit testing
-
-**Architecture**
-
-```text
-Lead
- ↓
-Salesforce Flow
- ↓
-Apex Business Logic
- ↓
-Opportunity / Account / Contact
- ↓
-LWC Dashboard
- ↓
-Reports & Analytics
-```
-
-🔗 **Repository:** `salesforce-crm-lead-management`
-
----
-
-## 02 · Service Cloud Case Management
-
-**Service Cloud · Apex · LWC · Flow**
-
-Customer service application designed to automate case management and improve support-team productivity.
+An AI-powered application designed to analyze resumes against job descriptions and identify the most relevant candidate profiles.
 
 ### Key Features
 
-* Case creation and assignment
-* Priority-based routing
-* Escalation automation
-* SLA tracking
-* Agent workspace
-* LWC case dashboard
-* Automated customer notifications
-* Service performance reporting
+- Resume upload and text extraction
+- Job description analysis
+- Resume and job description matching
+- NLP-based text preprocessing
+- TF-IDF vectorization
+- Cosine similarity scoring
+- Candidate relevance ranking
+- Match percentage visualization
+- Interactive Streamlit dashboard
 
-**Technologies**
+### Architecture
 
-`Apex` `LWC` `Flow` `SOQL` `Service Cloud`
+```text
+Resume Upload
+      |
+      ▼
+Text Extraction
+      |
+      ▼
+Text Preprocessing
+      |
+      ▼
+TF-IDF Vectorization
+      |
+      ▼
+Cosine Similarity
+      |
+      ▼
+Resume Matching Engine
+      |
+      ▼
+Match Score & Results
+      |
+      ▼
+Streamlit Dashboard
+```
+
+**Repository:** `ai_resume_matcher`
 
 ---
 
-## 03 · Salesforce REST API Integration
+## 02 · AI-Powered Chatbot
 
-**Apex · REST API · JSON · Postman**
+**Python · LLMs · OpenAI API · NLP**
 
-Integration framework demonstrating communication between Salesforce and external applications.
+An intelligent conversational application designed to understand user queries and generate contextual responses using Large Language Models.
 
 ### Key Features
 
-* REST API callouts
-* JSON serialization/deserialization
-* Named Credentials
-* Authentication
-* Error handling
-* Integration logging
-* Retry mechanisms
-* Postman testing
+- Natural language understanding
+- Context-aware responses
+- Prompt engineering
+- Conversation history
+- LLM API integration
+- Error handling
+- Interactive chat interface
 
-**Integration Flow**
+---
+
+## 03 · Retrieval-Augmented Generation (RAG) System
+
+**Python · LLMs · Embeddings · Vector Database**
+
+An AI-powered document question-answering system that retrieves relevant information from documents and generates context-aware responses.
+
+### Key Features
+
+- PDF and document ingestion
+- Text extraction and chunking
+- Embedding generation
+- Vector similarity search
+- Context retrieval
+- LLM-based answer generation
+- Source-grounded responses
+
+### Architecture
 
 ```text
-External Application
-        │
-        ▼
-     REST API
-        │
-        ▼
- Salesforce
-        │
-        ▼
- Apex Integration Layer
-        │
-        ▼
- Salesforce Objects
+Documents / PDFs
+       |
+       ▼
+  Text Extraction
+       |
+       ▼
+   Text Chunking
+       |
+       ▼
+ Embedding Model
+       |
+       ▼
+  Vector Database
+       |
+       ▼
+  User Question
+       |
+       ▼
+ Semantic Retrieval
+       |
+       ▼
+   LLM Processing
+       |
+       ▼
+ Contextual Answer
 ```
 
 ---
 
-## 04 · Salesforce Sales Pipeline Dashboard
+## 04 · Machine Learning Prediction System
 
-**LWC · Apex · SOQL · Sales Cloud**
+**Python · Pandas · NumPy · Scikit-learn**
 
-Interactive dashboard for sales teams to monitor pipeline performance and opportunity activity.
+A machine learning application that analyzes historical datasets, identifies patterns, and predicts outcomes using supervised learning algorithms.
 
-### Dashboard Metrics
+### Key Features
 
-* Total Pipeline
-* Open Opportunities
-* Closed Won Revenue
-* Conversion Rate
-* Opportunities by Stage
-* Opportunities by Owner
-* Monthly Revenue
-* Sales Performance
-
----
-
-# Salesforce Engineering Practices
-
-I focus on writing Salesforce solutions that are:
-
-### ⚡ Scalable
-
-Bulkified Apex and optimized SOQL designed around Salesforce governor limits.
-
-### 🧪 Testable
-
-Meaningful unit tests with appropriate test data and strong code coverage.
-
-### 🔐 Secure
-
-Salesforce security model considered throughout development, including:
-
-`OWD` · `Roles` · `Profiles` · `Permission Sets` · `Sharing Rules`
-
-### ♻️ Maintainable
-
-Reusable Apex services, clear naming conventions, modular LWC components, and clean metadata organization.
-
-### 🚀 Deployable
-
-Source-driven development using Salesforce DX, Git, Salesforce CLI, and structured deployment workflows.
+- Dataset preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Model training
+- Model evaluation
+- Prediction generation
+- Performance visualization
 
 ---
 
-# Salesforce Architecture
+## 🧩 AI Engineering Architecture
 
 ```text
-                    Salesforce Platform
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-     Sales Cloud       Service Cloud       Custom Apps
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                    Business Logic
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-           Apex           Flow          LWC
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                     Data Layer
-                           │
-                    Salesforce DB
-                           │
-                    Integration Layer
-                           │
-                 REST / SOAP / APIs
-                           │
-                  External Systems
+             AI-Powered Applications
+                       |
+          ┌────────────┼────────────┐
+          |            |            |
+       Machine      Generative    Intelligent
+       Learning        AI         Automation
+          |            |            |
+          └────────────┼────────────┘
+                       |
+                 AI Models
+                       |
+          ┌────────────┼────────────┐
+          |            |            |
+       Scikit-learn  LLMs         NLP
+          |            |            |
+          └────────────┼────────────┘
+                       |
+                  Data Layer
+                       |
+             Python / SQL / APIs
+                       |
+                AI Application
+                       |
+              FastAPI / Streamlit
+                       |
+                 Deployment
 ```
 
 ---
 
-# 🔐 Salesforce Security
-
-Experience and hands-on practice with:
-
-* Organization-Wide Defaults
-* Role Hierarchy
-* Profiles
-* Permission Sets
-* Permission Set Groups
-* Sharing Rules
-* Field-Level Security
-* Object-Level Security
-* Record-Level Access
-* Sharing & Access Control
-
----
-
-# 🧪 Testing & Code Quality
+## ⚙️ AI Engineering Workflow
 
 ```text
-Development
-     ↓
-Unit Tests
-     ↓
-Bulk Testing
-     ↓
-Governor Limit Validation
-     ↓
-Code Review
-     ↓
-Git Commit
-     ↓
-Deployment
-     ↓
-UAT
-     ↓
-Production
+Problem Identification
+        |
+        ▼
+Data Collection
+        |
+        ▼
+Data Cleaning & Preprocessing
+        |
+        ▼
+Exploratory Data Analysis
+        |
+        ▼
+Feature Engineering
+        |
+        ▼
+Model Development
+        |
+        ▼
+Model Training & Evaluation
+        |
+        ▼
+AI Application Development
+        |
+        ▼
+API Integration
+        |
+        ▼
+Deployment & Monitoring
 ```
 
 ---
 
-# 🚀 DevOps Workflow
+## 🔬 Engineering Principles
 
-```text
-VS Code
-   ↓
-Salesforce CLI
-   ↓
-Git
-   ↓
-GitHub
-   ↓
-Code Review
-   ↓
-CI/CD
-   ↓
-Salesforce Sandbox
-   ↓
-UAT
-   ↓
-Production
-```
+### 01. Scalable AI Solutions
+Building modular AI applications with reusable components and maintainable architecture.
+
+### 02. Data-Driven Development
+Using data preprocessing, feature engineering, and analytical techniques to improve model performance.
+
+### 03. Model Evaluation
+Evaluating models using appropriate metrics, validation techniques, and performance analysis.
+
+### 04. Responsible AI
+Considering data privacy, model reliability, bias, and responsible AI implementation.
+
+### 05. Production-Oriented Engineering
+Developing AI applications with APIs, testing, deployment, and monitoring in mind.
 
 ---
 
-# 📚 Currently Exploring
+## 📚 Currently Exploring
 
-* Advanced Apex Architecture
-* Enterprise Apex Patterns
-* Advanced Lightning Web Components
-* Salesforce Integration Architecture
-* REST & SOAP Integrations
-* Salesforce DevOps
-* CI/CD Automation
-* Platform Events
-* Change Data Capture
-* Asynchronous Apex
-* Salesforce Security Architecture
-* Salesforce Platform Developer certifications
+- Advanced Python Programming
+- Machine Learning Algorithms
+- Deep Learning & Neural Networks
+- Generative AI Applications
+- Large Language Model Architecture
+- Retrieval-Augmented Generation
+- LangChain & LLM Frameworks
+- AI Agents & Agentic Workflows
+- Vector Databases
+- Hugging Face Transformers
+- Model Fine-Tuning
+- FastAPI & AI Deployment
+- MLOps & Model Monitoring
+- Cloud-Based AI Solutions
 
 ---
 
-# 🎯 Professional Focus
+## 🎯 Professional Focus
 
 ```text
-Salesforce Development
+Python Programming
         +
-CRM Automation
+Machine Learning
         +
-Custom Applications
+Deep Learning
         +
-System Integration
+Generative AI
         +
-Data & Security
+Large Language Models
         +
-DevOps
+AI Application Development
+        +
+Cloud & Deployment
         =
-Scalable Salesforce Solutions
+Intelligent AI Solutions
 ```
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurabsingh022&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
@@ -411,26 +408,21 @@ Scalable Salesforce Solutions
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/gaurab-singh/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Gaurabsingh022">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>☁️ Building scalable CRM solutions with Salesforce.</strong>
+  <a href="https://www.linkedin.com/in/gaurab-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gaurabsingh022">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  ⭐ Explore the repositories · Fork · Learn · Build
+  <strong>🤖 Building intelligent applications with AI, Machine Learning & Generative AI.</strong>
+</p>
+
+<p align="center">
+  ⭐ Explore my repositories · Fork · Learn · Build
 </p>
